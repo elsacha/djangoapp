@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'travel-recorder'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_089888ffa6594fb6977fe9c0b21985ba }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b349000e907e428d9b4029e3b8539a88 }}
